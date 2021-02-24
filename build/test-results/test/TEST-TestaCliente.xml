@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestaCliente" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-23T18:52:53" hostname="Viniciuss-MacBook-Pro.local" time="1.907">
-  <properties/>
-  <testcase name="Quando eu pegar a lista de todos os clientes, entao deve contar Expert Club" classname="TestaCliente" time="1.907"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
